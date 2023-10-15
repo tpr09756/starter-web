@@ -1,1 +1,6 @@
+#file
 .DS_Store
+#extension
+*.log
+#directory
+log/
